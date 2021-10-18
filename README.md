@@ -1,8 +1,16 @@
-https://r5g1-github-io-cssmemslider.netlify.app/
+1. Task: https://github.com/DrDiman/CSS-Mem-Slider
+
+2. Screenshot:
 
 ![2](https://user-images.githubusercontent.com/71373383/137589292-a0cb0d29-a2ea-4f21-980a-89d4388b85fb.jpg)
 
-Максимальный балл за задание 140.
+3. Deploy: https://r5g1-github-io-cssmemslider.netlify.app/
+
+4. Done 16.10.2021 / deadline 17.10.2021
+
+5. Score: 140 / 150
+
+Максимальный балл за задание 150
 
 Выполнено всё из секции Требования к репозиторию и как сабмитить задание +30
 
@@ -24,3 +32,7 @@ https://r5g1-github-io-cssmemslider.netlify.app/
 
 Используются относительные едициы измерения для основных блоков (rem, em, %, vh, vw, fr and etc... ) +10
 
+(-) Все блоки/составные части слайдера (контролы, картинки, подписи к слайдеру) спозиционированы без использования position: absolute +10
+(ps// я не в курсе пока как сделать кнопки с большой областью нажатия без position: absolute)
+
+ps// я не вкурсе пока как зделать кнопки с большой областью нажатия без position: absolute
